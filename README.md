@@ -1,4 +1,3 @@
-<DOCTYPE!>
 <html>
   <head>
     <title>w3school tutorial</title>
